@@ -1,0 +1,10 @@
+{
+  "realm": "chirp",
+  "realm-public-key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+/BvPSg9LsQD6qnoSWP/MLQMfZiEyZA8YrqUbpXh96r/tuqGZh/s3Y9IhtbbAdcl57GVKnKoAsL/Kbcb9Lqa7OaHxUp5Yr2/qdko5FbibTc33EZdBDat0q4LnsTm/SvEdTxvolBobxCAq7juB6yP35tOTBGl4OAFwJV76O/v94QIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "unified-web-maven-js",
+  "credentials": {
+    "secret": "fa62a10a-7e37-414c-861f-70c5fb17ab97"
+  }
+}
